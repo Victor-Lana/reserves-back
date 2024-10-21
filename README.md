@@ -1,4 +1,3 @@
-"# reserves-back" 
 Desafio: Sistema de Reserva Simplificado
 Objetivo Geral:
 Criar um sistema de reserva de mesas com duas interfaces: uma para o usuário (reservas) e outra para o administrador (gerenciamento de reservas e lista de espera). As reservas seguem o modelo de assentos em um cinema, onde os usuários escolhem suas mesas a partir de uma visualização gráfica. O sistema também inclui autenticação de administrador usando JWT e a integração com o banco de dados PostgreSQL.
