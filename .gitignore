@@ -1,0 +1,12 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
